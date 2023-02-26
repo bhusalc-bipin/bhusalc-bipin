@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Bipin Bhusal Chhetri.
-- 👀 I’m interested in Autonomous Systems, Computer Vision, Web Development and iOS development.
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
